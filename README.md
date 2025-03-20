@@ -46,5 +46,6 @@ Mục tiêu chính:
   - Dùng mô hình đã huấn luyện để nhận diện.
 - 5️⃣Xem kết quả
   - Khi chạy chương trình có thể nhận diện trực tiếp trên camera hoặc có thể lưu ảnh vào thư mục.
+![captured_5](https://github.com/user-attachments/assets/f6207e23-bc62-48ec-801a-5891631bdedc)
 
 © 2025 NHÓM 3, NHẬN DIỆN KÝ TỰ TAY SỬ DỤNG KỸ THUẬT HỌC SÂU YOLO VÀ MEDIAPIPE, TRÍ TUỆ NHÂN TẠO, TRƯỜNG ĐẠI HỌC Đại NAM
